@@ -10,7 +10,7 @@
       "email": "la-verne@mail.ru"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "require": {
     "php": ">=7.0"
   },
